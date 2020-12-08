@@ -13,7 +13,7 @@ The code can be run with MATLAB 2014b and higher with MATLAB's optimization tool
 
 1) Navigate to the root directory and run the "init.m" to initialize the addition of directories.
 
-2) Go to path "..\examples\go_to_goal" and run the demo codes
+2) Go to path "..\examples" and run the demo codes
 
     a) "main_PrSBC.m" to get robots swapping positions using centralized PrSBC   
     b) "main_SBC.m" to get robots swapping positions using centralized safety barrier certificates from built-in Robotarium function    
